@@ -4,3 +4,4 @@ puts "Changes for branch change-2"
 change3
 change3
 change3
+change3
